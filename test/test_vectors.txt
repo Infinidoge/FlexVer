@@ -17,6 +17,7 @@
 # SemVer incompatibility
 1.5 < 1.5-2
 1.5-pre10 > 1.5-pre2
+1.5-pre10-1.5.0 > 1.5-pre10-1.4.2
 
 # Empty strings
  = 
